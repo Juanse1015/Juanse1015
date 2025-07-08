@@ -1,6 +1,6 @@
 # Hola, soy Juan Sebastian Murcia: 👋
-
-Me gusta jugar futbol , me gusta la inteligencia artificial y la energias renovables.
+Ingeniero en energias
+Me gusta jugar futbol, la inteligencia artificial y la energías renovables.
 
 ## Programming Languages
 - <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"  height="20"/> &nbsp; <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat&logo=r&logoColor=white" height="20"/> &nbsp;<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height="20"/> &nbsp;<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat&logo=latex&logoColor=white" height="20" />&nbsp;<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white" height="20" />
@@ -16,19 +16,4 @@ Me gusta jugar futbol , me gusta la inteligencia artificial y la energias renova
 - Drug Solubility
 
 ## 📬 Contacto
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://x.com/rectmat555)](https://x.com/rectmat555)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rossember-eden-cardenas-torres-928629192/)](https://www.linkedin.com/in/rossember-eden-cardenas-torres-928629192/)
-<!--
-**erivera23/erivera23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/juan.murciaa11/)](https://www.instagram.com/juan.murciaa11/)
